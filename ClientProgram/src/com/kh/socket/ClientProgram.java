@@ -64,10 +64,10 @@ public class ClientProgram {
 				// 5) 데이터 주고받기 
 				while(true) {
 					// 서버로 데이터 출력하기
-					System.out.println("그만 하고 싶으시면 그만하고 싶어요.를 입력해주세요.");
+					System.out.println("그만하고 싶으시면 '그만하고 싶어요'를 입력해주세요.");
 					System.out.println("보내고픈 메시지 > ");
 					String sendMessage = sc.nextLine();
-					if("그만하고 싶어요.".equals(sendMessage)){
+					if("그만하고 싶어요".equals(sendMessage)){
 						break;
 					}
 					pw.println(sendMessage);
