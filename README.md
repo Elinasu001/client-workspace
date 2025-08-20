@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Java Basic Projects
+# 🧑🏻‍💻 Java Basic Projects _ CLIENT
 
 자바(JAVA) 기초 수업에서 작성한 실습 코드와 과제를 정리한 저장소입니다.
 객체 지향 프로그래밍의 기초와 JAVA 문법을 학습하며 점진적으로 실력을 향상시키는 것을 목표로 합니다.
